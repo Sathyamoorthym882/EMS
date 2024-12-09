@@ -1,0 +1,11 @@
+{
+  "agreements": [
+    {
+      "id": "6b0a",
+      "employeeName": "John Doe",
+      "department": "IT",
+      "position": "Software Engineer",
+      "agreementDate": "2024-12-08"
+    }
+  ]
+}
